@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello,Fixhub! -by Phecho\n";
+echo "Hello,Fixhub! -by Phecho.\n";
 
 ?>
